@@ -171,6 +171,8 @@ header a:hover {
 
 #last_played {
     margin-top: 20px;
+    background: #272727;
+    color: #ffffff;
 }
 
 #last_played .box {
